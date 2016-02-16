@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1455633128 source:c:\users\richard\documents\code blocks projekte\nodes\nodes.c
+	<stdlib.h>
+	<stdio.h>
+	"Nodes.h"
+
+1455649001 c:\users\richard\documents\code blocks projekte\nodes\nodes.h
+
